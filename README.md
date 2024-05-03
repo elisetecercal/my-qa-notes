@@ -1,3 +1,10 @@
+---
+cover: >-
+  Software Tests/Plano de teste/Criar casos de testes para o fluxo de cadastro
+  da /CT3.gif
+coverY: 0
+---
+
 # Software Tests
 
 On this page, you can see all the info about taste, like: -

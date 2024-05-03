@@ -1,0 +1,11 @@
+﻿Requisitos,Tipo de Teste,Prioridade,Severidade,Status,Critérios de Aceite,Tipo de Bug
+Cypress E2E,,,,Not started,,
+Melhorias Propostas,,,,Done,,
+Teste de Responsividade,Não Funcional,⭐️⭐️⭐️⭐️,Média,Not started,,
+Teste de Acessibilidaade,Não Funcional,⭐️⭐️⭐️⭐️⭐️,Alta,Not started,,
+Testes de desempenho,Não Funcional,⭐️⭐️⭐️⭐️⭐️,Alta,Not started,,
+Bugs encontrados,Exploratório,⭐️⭐️⭐️⭐️⭐️,Alta,Done,Qualquer comportamento não esperado/desejado exibido na aplicação,
+Esquecer a senha da pessoa usuária,Funcional,⭐️⭐️⭐️,Alta,Done,https://miro.com/app/board/uXjVNmWH66w=/?moveToWidget=3458764581406111073&cot=10,
+Buscar uma pessoa profissional,Funcional,⭐️⭐️⭐️⭐️,Média,Done,https://miro.com/app/board/uXjVNmWH66w=/?moveToWidget=3458764581387269002&cot=10,Acessibilidaade
+Tela Inicial - Cadastro de Nova PU,Funcional,⭐️⭐️⭐️⭐️⭐️,Alta,Done,https://miro.com/app/board/uXjVNmWH66w=/?moveToWidget=3458764581387939542&cot=10,Redirecionamento
+Editar Perfil da Pessoa Usuária,Funcional,⭐️,Baixa,Done,https://miro.com/app/board/uXjVNmWH66w=/?moveToWidget=3458764581407611085&cot=10,

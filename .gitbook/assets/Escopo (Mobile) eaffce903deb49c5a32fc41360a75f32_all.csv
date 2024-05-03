@@ -1,0 +1,5 @@
+﻿ID,Requisitos,Tipo de Teste,Prioridade,Severidade,Status,Link,Passou/Não Passou
+1,Tela Inicial - Cadastro de Nova PU,Funcional,⭐️⭐️⭐️⭐️⭐️,Alta,Not started,https://miro.com/app/board/uXjVNmWH66w=/?share_link_id=921839341396,Passou
+2,Buscar uma pessoa profissional,Funcional,⭐️⭐️⭐️⭐️,Média,Not started,,Não passou
+3,Esquecer a senha da pessoa usuária,Funcional,⭐️⭐️⭐️,Alta,Not started,,
+4,Editar Perfil da Pessoa Usuária,Funcional,⭐️,Baixa,Not started,,

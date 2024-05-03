@@ -1,4 +1,6 @@
-# ISTQB - CTFL 4.0
+---
+description: How do you choose a better Methodologies to work?
+---
 
-Here is a short note about my study CTFL 4.0, I made many notes to prepare me for the Test. I see some simulators on the ISTQB site and [Iterarys](https://iterasys.com/my/).&#x20;
+# Agile Methodologies
 

@@ -1,2 +1,0 @@
-# Project LCS - Test Plan
-

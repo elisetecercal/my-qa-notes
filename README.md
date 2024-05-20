@@ -5,7 +5,7 @@ coverY: 0
 
 # Software Tests
 
-On this page, you can see all the info about taste, like: -
+On this page, you can see all the info about test, like: -
 
 What are they? - How do you make it? , Why are you making software tests? What is a type of test?
 
